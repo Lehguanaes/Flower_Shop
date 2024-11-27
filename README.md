@@ -2,8 +2,8 @@
   
 # Projeto: Flower Shop
 
-  <a href="Projeto Flower" target="_blank"><img src="https://img.shields.io/badge/Código da Aplicação-EBF3F8?style=for-the-badge&logo=github&logoColor=ff7d52"></a> 
-  <a href="https://www.canva.com/design/DAFvx0TnRHY/eq0c-LB2e0_CWa2q_FiRRQ/view?utm_content=DAFvx0TnRHY&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><img src="https://img.shields.io/badge/-Documentação da Aplicação-EBF3F8?style=for-the-badge&logo=github&logoColor=ff7d52"></a>
+  <a href="Flower Shop/Flower_Shop/src" target="_blank"><img src="https://img.shields.io/badge/Código da Aplicação-EBF3F8?style=for-the-badge&logo=github&logoColor=ff7d52"></a> 
+  <a href="Flower Shop/Documentação da Aplicação/Documentação Floricultura.pdf" target="_blank"><img src="https://img.shields.io/badge/-Documentação da Aplicação-EBF3F8?style=for-the-badge&logo=github&logoColor=ff7d52"></a>
 </div>
 
 ## Visão geral
@@ -32,22 +32,30 @@ A aplicação é um projeto interdisciplinar de Interface gráfica com integraç
 
 #
 
-- Vendas
+- Login
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/49f7b9f1-69d7-4967-954e-b757cebc3f17">
 
 #
 
+- Vendas
+<img width="960" alt="Vendas" src="https://github.com/user-attachments/assets/6ec0e379-1812-48da-9eaa-99565a8f1096">
+
+#
+
 - Categoria
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/89c28789-7bd0-444e-b7f2-1265f5f73837">
+<img width="960" alt="produtos" src="https://github.com/user-attachments/assets/2f1975a9-e5c9-4fd1-b939-a7394c4a78e2">
 
 #
 
 - Produtos
+<img width="960" alt="Produtoss" src="https://github.com/user-attachments/assets/acae1a6f-9656-4f35-8b95-6543b4956c25">
+
   
 #
 
 - Clientes
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/47883115-a6e8-408e-97a5-83f07eb4132d">
+<img width="959" alt="Cliente" src="https://github.com/user-attachments/assets/3d6468f9-d556-41a0-acfb-142fe4f134db">
+
 
 <div align="center">
   
